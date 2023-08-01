@@ -1,0 +1,49 @@
+.login{
+    display: inline-block;
+    width: 50;
+    text-align: center;
+    margin: 50px ;
+
+}
+span{
+    background-color: gray;
+}
+body{
+    width: 35%;
+    height: 50px;
+    margin: 130px auto;
+
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+label{
+    color:bisque;
+}
+#b1{
+   width: 100%; 
+   padding: 5px;
+   background-color: blueviolet;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color:  white ;
+}
+#b1:hover{
+    opacity: 0.8;
+}
+#b2{
+background-color: red;
+color: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+width: 35%;
+float: left;
+}
+fieldset{
+    background-color: chocolate;
+}
+
+
+
+
+
+
